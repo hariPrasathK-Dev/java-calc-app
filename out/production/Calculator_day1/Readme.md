@@ -1,4 +1,4 @@
-_# 🧮 CLI Calculator in Java
+# 🧮 CLI Calculator in Java
 
 A simple yet powerful **Command-Line Calculator** written in Java. Built as part of my Java Developer role at **Elevate Lab**, this calculator performs basic arithmetic operations in a clean, menu-driven interface. 🚀
 
@@ -48,7 +48,7 @@ calculator/
 javac CalculatorApplication_CLI.java
 
 java CalculatorApplication_CLI
-```
+
 🛠 Tech Stack
 Java SE
 
@@ -78,4 +78,4 @@ If you found this helpful or inspiring, please consider:
 
 🔁 Sharing it
 
-Thanks for visiting!_
+Thanks for visiting!
