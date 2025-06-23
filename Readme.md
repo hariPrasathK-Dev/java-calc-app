@@ -31,6 +31,7 @@ Here’s how the calculator works in the terminal:
 
 ## 📁 Project Structure
 
+```
 calculator/
 ├── CalculatorApplication_CLI.java
 ├── images/
@@ -38,7 +39,7 @@ calculator/
 │ ├── screenshot2.png
 │ └── screenshot3.png
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run
@@ -49,33 +50,26 @@ javac CalculatorApplication_CLI.java
 
 java CalculatorApplication_CLI
 ```
-🛠 Tech Stack
-Java SE
+---
 
-CLI (Command Line Interface)
+## 🛠 Tech Stack
 
-Git & GitHub
+- 💻 Java SE
+- 🖥️ CLI (Command Line Interface)
+- 🌐 Git & GitHub
 
-🔮 Future Upgrades (Planned)
- Scientific calculator mode (square root, exponent, log)
+---
 
- Save session history to file
+## 🔮 Future Upgrades (Planned)
 
- GUI version using JavaFX or Swing
+- [ ] Scientific calculator mode (square root, exponent, log)
+- [ ] Save session history to file
+- [ ] GUI version using JavaFX or Swing
+- [ ] Unit testing with JUnit
 
- Unit testing with JUnit
+---
 
-🙋‍♂️ Author
-Made with ❤️ by HARI PRASATH K
-🚀 Part of the Elevate Lab - Java Developer Role
+## 🙋‍♂️ Author
 
-⭐️ Show Your Support
-If you found this helpful or inspiring, please consider:
-
-⭐️ Starring this repository
-
-🍴 Forking it
-
-🔁 Sharing it
-
-Thanks for visiting!_
+Made with ❤️ by [HARI PRASATH K](https://github.com/hariPrasathK-Dev)  
+🚀 Java Developer at Elevate Lab
